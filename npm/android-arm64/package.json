@@ -1,6 +1,10 @@
 {
   "name": "@wundero/napi-uuid-android-arm64",
   "version": "0.1.2",
+  "repository": {
+    "url": "https://github.com/Wundero/napi-uuid",
+    "type": "git"
+  },
   "os": [
     "android"
   ],

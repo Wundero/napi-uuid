@@ -1,6 +1,10 @@
 {
   "name": "@wundero/napi-uuid-linux-arm-musleabihf",
   "version": "0.1.2",
+  "repository": {
+    "url": "https://github.com/Wundero/napi-uuid",
+    "type": "git"
+  },
   "os": [
     "linux"
   ],
