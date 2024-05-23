@@ -1,0 +1,18 @@
+{
+  "name": "@wundero/napi-uuid-linux-arm-musleabihf",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "napi-uuid.linux-arm-musleabihf.node",
+  "files": [
+    "napi-uuid.linux-arm-musleabihf.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

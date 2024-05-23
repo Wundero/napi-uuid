@@ -1,0 +1,15 @@
+{
+  "name": "@wundero/napi-uuid-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "napi-uuid.darwin-universal.node",
+  "files": [
+    "napi-uuid.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
