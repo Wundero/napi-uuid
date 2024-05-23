@@ -3,6 +3,10 @@
   "version": "0.1.1",
   "main": "index.js",
   "types": "index.d.ts",
+  "repository": {
+    "url": "https://github.com/Wundero/napi-uuid",
+    "type": "git"
+  },
   "napi": {
     "name": "napi-uuid",
     "triples": {
