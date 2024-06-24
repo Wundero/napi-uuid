@@ -1,6 +1,6 @@
 {
   "name": "@wundero/napi-uuid-linux-x64-gnu",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "repository": {
     "url": "https://github.com/Wundero/napi-uuid",
     "type": "git"
