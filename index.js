@@ -310,6 +310,8 @@ if (!nativeBinding) {
   throw new Error(`Failed to load native binding`)
 }
 
-const { v7 } = nativeBinding
+const { v7, v4, nano } = nativeBinding
 
 module.exports.v7 = v7
+module.exports.v4 = v4
+module.exports.nano = nano
